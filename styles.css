@@ -55,7 +55,7 @@ body {
 .container {
     position: fixed;
     width: 200%;
-    height: 220vw;
+    height: 217vw;
     z-index: -1;
     left: 0;
     top: 0;
@@ -88,7 +88,7 @@ body {
     top: 4%;
     display: flex;
     z-index: 2;
-    font-size: 5em;
+    font-size: 4.5em;
     justify-content: center;
     font-family: mi_fuente;
     letter-spacing: 10px;
